@@ -1,0 +1,143 @@
+    
+    body{
+    margin: 0px;
+    background: #000;
+    color: #484545; 
+    text-align: center; position: relative;
+    align-content: center;
+    margin-right: 50px;
+    }
+
+    .header {
+    height: 70px;
+    background: #969494;
+    border: 2px solid #ccc;
+    width: 980px;
+    margin-top: 15px;
+    margin-bottom: 16px;
+    float: right;
+    }
+
+    .header p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 39.29%;
+    }
+
+    .content {
+        height: 70px;
+        background: #969494;
+        border: 2px solid #ccc;
+        width: 980px;
+        margin-bottom: 25px;
+        float: right;
+    }
+
+    .content p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 33.57%;
+    }
+
+    .section {
+        width: 45.2%;
+        background: #969494;
+        border: 2px solid #ccc;
+        height: 270px;
+        margin-right:12.5px;
+        margin-bottom: 25px;
+        float: right;
+        position:relative;
+    }
+
+    .section p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 10%;
+    }
+
+    .article {
+        width: 36.16%;
+        height: 190px;
+        background: #000;
+        border: 2px solid #ccc;
+        position: absolute;
+        top: 265px;
+        left: 300px;
+      }
+  
+    .article p2 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 15%;
+    }
+
+    .h {
+        width: 90%;
+        height: 40px;
+        background: #969494;
+        border: 2px solid #ccc;
+        position: absolute;
+        bottom: 40%;
+        left: 5%;
+    }
+  
+    .h h1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 5%;
+    }    
+
+
+    .par {
+        width: 90%;
+        height: 40px;
+        background: #969494;
+        border: 2px solid #ccc;
+        position: absolute;
+        bottom: 10%;
+        left: 5%;
+    }
+
+    .par p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 23%;
+    }    
+
+    .aside {
+        width: 32%;
+        background: #969494;
+        border: 2px solid #ccc;
+        height: 270px;
+        margin-left: 12.5px;
+        margin-bottom: 25px;
+        float: right;
+    }
+
+    .aside p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 45.20%;
+    }
+    
+    .footer {
+        width: 980px;
+        background: #969494;
+        border: 2px solid #ccc;
+        height: 70px;
+        right: 50px;
+        position: fixed;
+        float: bottom;
+        float: right;
+        bottom: 0px;
+    }
+
+    .footer p1 {
+        position: relative;
+        margin: 0; padding: 0;
+        top: 48.57%;
+    }   
+        
+   
+    

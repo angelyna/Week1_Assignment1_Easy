@@ -11,7 +11,7 @@
     .header {
     height: 70px;
     background: #969494;
-    border: 2px solid #ccc;
+    border: 2px solid rgb(8, 10, 133);
     width: 980px;
     margin-top: 15px;
     margin-bottom: 16px;
@@ -27,7 +27,7 @@
     .content {
         height: 70px;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         width: 980px;
         margin-bottom: 25px;
         float: right;
@@ -40,9 +40,9 @@
     }
 
     .section {
-        width: 45.2%;
+        width: 45%;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         height: 270px;
         margin-right:12.5px;
         margin-bottom: 25px;
@@ -60,7 +60,7 @@
         width: 36.16%;
         height: 190px;
         background: #000;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         position: absolute;
         top: 265px;
         left: 300px;
@@ -76,7 +76,7 @@
         width: 90%;
         height: 40px;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         position: absolute;
         bottom: 40%;
         left: 5%;
@@ -93,7 +93,7 @@
         width: 90%;
         height: 40px;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         position: absolute;
         bottom: 10%;
         left: 5%;
@@ -108,7 +108,7 @@
     .aside {
         width: 32%;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         height: 270px;
         margin-left: 12.5px;
         margin-bottom: 25px;
@@ -124,7 +124,7 @@
     .footer {
         width: 980px;
         background: #969494;
-        border: 2px solid #ccc;
+        border: 2px solid rgb(8, 10, 133);
         height: 70px;
         right: 50px;
         position: fixed;
